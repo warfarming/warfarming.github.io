@@ -2,4 +2,4 @@
 
 Public static warfarming.com website.
 
-Unlicensed. You do not have permission to use this code. 
+The template is HTML5 Up! Fractal, MIT license. Modifications of the template are unlicensed. You do not have permission to use this code. 
